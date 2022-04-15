@@ -16,7 +16,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - Github profile: [undefined](undefined)
+  - [Github profile](#github-profile)
 
   -----------------------
 

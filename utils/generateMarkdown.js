@@ -73,7 +73,7 @@ function generateMarkdown(data) {
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - Github profile: [${data.github}](${data.github})
+  - [Github profile](#github-profile)
 
   -----------------------
 

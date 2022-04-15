@@ -5,6 +5,10 @@
   ## Description
 
   This project is using Node.js in order to generate a README.md file based on user input. 
+  
+  Follow the installation instructions below and then click the following link for a short video tutorial!
+  
+  [Video tutorial](https://drive.google.com/file/d/143OgKqVu-8epLmyxcY1VLvW0fRp0HyB2/view)
 
   -----------------------
 

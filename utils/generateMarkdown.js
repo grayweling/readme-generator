@@ -113,7 +113,7 @@ function generateMarkdown(data) {
 
   ## GitHub Profile
 
-  [${data.username}](http://github.com/${data.github})
+  [${data.username}](http://github.com/${data.username})
 
   -----------------------
 `;

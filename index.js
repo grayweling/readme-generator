@@ -29,7 +29,7 @@ const licenses = [
 // TODO: Create a function to write README file
 const writeToFile = (data) => {
     return new Promise((resolve, reject) => {
-        fs.writeFile("README.md", data, (err) => {
+        fs.writeFile("./dist/README.md", data, (err) => {
             if (err) {
                 reject(err);
                 return;

@@ -16,7 +16,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Github profile](#github_profile)
+  - [Github profile](#github-profile)
 
   -----------------------
 

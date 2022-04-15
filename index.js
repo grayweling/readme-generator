@@ -37,11 +37,11 @@ const writeToFile = (data) => {
 
             resolve({
                 ok: true,
-                message: "Successfully wrote to README.md"
+                message: "Successfully wrote to dist/README.md"
             });
         });
-    })
-}
+    });
+};
 
 // TODO: Create a function to initialize app
 function init() {
@@ -103,6 +103,9 @@ init()
     })
     .then((markdown) => {
         return writeToFile(markdown);
+    })
+    .then((writeFileResponse) => {
+        console.log(writeFileResponse.message);
     })
     .catch((err) => {
         console.log(err);
